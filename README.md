@@ -96,12 +96,11 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
 
 Example:
 
 ```
-![Home Page](screenshot.png)
+![Home Page](image.png)
 ```
 
 ---
