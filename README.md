@@ -1,18 +1,18 @@
-# Airbnb Clone
+# 🏡 Airbnb Clone
 
-A full stack Airbnb Clone web application built using **Node.js, Express, MongoDB, and Tailwind CSS**.
-This project allows users to create property listings, upload images, and view available listings.
+A full stack **Airbnb Clone** web application built using **Node.js, Express, MongoDB, and Tailwind CSS**.
+Users can create property listings, upload images, and explore available stays.
 
 ---
 
 ## 🚀 Features
 
-* Create property listings
-* Upload property images
-* View all listings
-* MVC project structure
-* Image upload support
-* Clean UI using Tailwind CSS
+* 🏠 Create property listings
+* 📷 Upload property images
+* 📄 View all listings
+* 🗂️ MVC architecture
+* ⚡ Fast UI with Tailwind CSS
+* 📁 Image upload functionality
 
 ---
 
@@ -36,7 +36,7 @@ This project allows users to create property listings, upload images, and view a
 
 **Other Tools**
 
-* Multer (for image upload)
+* Multer (Image Upload)
 * Nodemon
 
 ---
@@ -53,6 +53,8 @@ airbnb-clone
 ├── public
 ├── uploads
 ├── utils
+├── screenshots
+│     └── homepage.png
 ├── app.js
 ├── package.json
 └── tailwind.config.js
@@ -60,33 +62,43 @@ airbnb-clone
 
 ---
 
+## 📸 Screenshots
+
+![Home Page](screenshots/homepage.png)
+
+<p align="center">
+  <img src="screenshots/homepage.png" width="800">
+</p>
+
+---
+
 ## ⚙️ Installation
 
-Clone the repository:
+Clone the repository
 
 ```
 git clone https://github.com/avnishsingh309/airbnb-clone.git
 ```
 
-Go to project folder:
+Go to project folder
 
 ```
 cd airbnb-clone
 ```
 
-Install dependencies:
+Install dependencies
 
 ```
 npm install
 ```
 
-Run the server:
+Run the server
 
 ```
 npm start
 ```
 
-Open browser and visit:
+Open in browser
 
 ```
 http://localhost:3000
@@ -94,25 +106,12 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-
-Example:
-
-```
-## 📸 Screenshots
-
-![Home Page](screenshots/homepage.png)
-```
-
----
-
 ## 🎯 Future Improvements
 
-* User authentication
-* Booking system
-* Payment integration
-* Reviews and ratings
+* 🔐 User Authentication
+* 🛒 Booking System
+* 💳 Payment Integration
+* ⭐ Reviews and Ratings
 
 ---
 
@@ -120,5 +119,9 @@ Example:
 
 **Avnish Singh**
 
-GitHub:
+GitHub
 https://github.com/avnishsingh309
+
+---
+
+⭐ If you like this project, give it a **star** on GitHub!
