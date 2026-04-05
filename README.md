@@ -66,9 +66,6 @@ airbnb-clone
 
 ![Home Page](screenshots/homepage.png)
 
-<p align="center">
-  <img src="screenshots/homepage.png" width="800">
-</p>
 
 ---
 
