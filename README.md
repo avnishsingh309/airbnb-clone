@@ -60,12 +60,6 @@ airbnb-clone
 └── tailwind.config.js
 ```
 
----
-
-## 📸 Screenshots
-
-![Home Page](screenshots/homepage.png)
-
 
 ---
 
