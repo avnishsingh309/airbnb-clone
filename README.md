@@ -100,7 +100,7 @@ http://localhost:3000
 Example:
 
 ```
-![Home Page](image.png)
+![Home Page](homepage.png)
 ```
 
 ---
